@@ -1,0 +1,32 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #eef4f7;
+  min-height: 100vh;
+}
+
+.heading {
+  color: #334155;
+  font-size: 30px;
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-color: #52bbf0;
+  text-decoration-thickness: 3px;
+}
+
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
